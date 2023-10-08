@@ -1,5 +1,7 @@
 # Bill-Optimizer
 
+## Demo: https://electric-bill-optimizer.netlify.app/
+
 Features
 The Electricity Bill Optimizer website provides the following functionalities:
 
